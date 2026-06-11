@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Ankitha 👋
 
-<!--
-**ankithan0711/ankithan0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering Graduate
 
-Here are some ideas to get you started:
+☕ Currently learning Java Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Open to Software Developer Opportunities
+
+💻 Interested in:
+- Java Development
+- Web Development
+- Problem Solving
+- Learning New Technologies
+
+🌱 Building projects and improving my skills every day.
+
+📍 Bengaluru, Karnataka, India
+
+✨ "Every expert was once a beginner who never gave up."
