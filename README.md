@@ -41,16 +41,4 @@ To become a skilled Full Stack Java Developer and secure an opportunity where I 
 ---
 
 ✨ *"Every expert was once a beginner who never gave up."*
-🔍 Open to Software Developer Opportunities
 
-💻 Interested in:
-- Java Development
-- Web Development
-- Problem Solving
-- Learning New Technologies
-
-🌱 Building projects and improving my skills every day.
-
-📍 Bengaluru, Karnataka, India
-
-✨ "Every expert was once a beginner who never gave up."
