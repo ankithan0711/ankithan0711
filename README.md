@@ -1,10 +1,5 @@
 # Hi there, I'm Ankitha 👋
 
-🎓 Information Science & Engineering Graduate
-
-☕ Currently learning Java Full Stack Development
-# Hi there, I'm Ankitha 👋
-
 🎓 Information Science & Engineering Graduate  
 ☕ Currently learning Java Full Stack Development  
 🔍 Open to Software Developer Opportunities  
